@@ -1,0 +1,49 @@
+:root {
+  /* FONT */
+  --f1: 'Lekton', monospace;
+  --f2: 'Lekton', monospace;
+  /* COLOURS */
+  --c2: #FFC4C4;
+  --c3: #EE6983;
+  --c4: #850E35;
+}
+
+* {
+  margin: 0 !important;
+}
+
+/* TEXT */
+h1 {
+  font-size: 6rem;
+  font-family: var(--f1);
+  top: 30%;
+  color: var(--c2);
+}
+
+h2 {
+  font-size: 4rem;
+  font-family: var(--f1);
+  color: var(--c3);
+}
+
+h3 {
+  font-size: 4rem;
+  font-family: var(--f1);
+  color: var(--c1);
+}
+
+p {
+  font-size: 1.3rem;
+  font-family: var(--f2);
+  color: var(--c4);
+}
+
+/* DIVS */
+header {
+  background-color: var(--c4);
+  text-align: center;
+}
+
+body {
+  background-color: var(--c2);
+}
