@@ -1,7 +1,7 @@
 # Friend-dreams
 i was bored
 
-my friends said this at sme point in the last 2 years to me
+my friends said this at some point to me
 
 ...
 
