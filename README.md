@@ -1,7 +1,7 @@
 # Friend-dreams
-i was bored
+i was bored... as always
 
-my friends said this at some point to me
+Some friends said this at some point
 
 ...
 
